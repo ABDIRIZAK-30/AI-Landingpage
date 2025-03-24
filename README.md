@@ -2,7 +2,7 @@
 
 Welcome to the **AI Landing Page** project! This modern, responsive landing page is designed using **HTML and CSS** to showcase AI-related services.  
 
-👨‍💻 **Built by:** ABDIRIZAK MOALIM  
+👨‍💻 **Built by:** **ABDIRIZAK MOALIM**  
 ## 🌐 Live Demo  
 
 Check out the live version of the project:  
