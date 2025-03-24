@@ -14,4 +14,6 @@ key features:
 
 Don't miss out on these expert insights and practical tips to make your AI landing page stand out! Watch now and start creating!
 
+# Full-preview
 
+<img src="/images/Full-webpage.jpg">
