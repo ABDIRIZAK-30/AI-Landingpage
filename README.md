@@ -12,7 +12,6 @@ Check out the live version of the project:
 
 <img src="/images/Full-webpage.jpg">  
 
-*(Include a screenshot of the landing page for better visualization.)*  
 
 ## 🛠️ Features  
 
