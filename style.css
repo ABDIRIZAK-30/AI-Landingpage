@@ -446,14 +446,19 @@ footer .copyright{
 
 }
 
-@media screen and (max-width: 768px) {
-    
+@media screen  and (max-width: 768px) {
+
+    nav{
+        text-wrap: nowrap;
+    }
+   
     nav .logo i{
-        padding: 6px;
+        padding: 1px;
+    
     }
 
     nav .nav-links a{
-        font-size: 13px;
+        font-size: 10px;
     }
 
     nav .nav-links p,
@@ -462,14 +467,16 @@ footer .copyright{
     }
 
     nav .login img{
-        width: 28px;
-        height: 28px;
+        width: 25px;
+        height: 25px;
     }
 
     .prompt-sec h1{
-        font-size: 62px;
+        font-size: 50px;
         line-height: 48px;
-        margin-top: 20px;
+        margin-top: 1px;
+        margin-bottom: 2rem;
+
     }
 
     .prompt-sec .prompt-img input{
@@ -498,3 +505,4 @@ footer .copyright{
     }
 
 }
+
